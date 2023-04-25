@@ -1,0 +1,7 @@
+{
+"Threshold_size": "10KB",
+"Max_commands": "6",
+"Max_log_files": "2",
+"Same_dir": "False",
+"output": "log"
+}
